@@ -1,5 +1,5 @@
 #include <stdio.h> 
-int main() 
+void big()
 { 
     int A, B, C; 
   
@@ -19,5 +19,5 @@ int main()
             printf("%d is the largest number.", C); 
     } 
   
-    return 0; 
+   
 } 
